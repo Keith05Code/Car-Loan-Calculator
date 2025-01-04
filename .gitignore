@@ -1,0 +1,23 @@
+# Compiled class files
+build/
+
+# IDE-specific files
+nbproject/private/
+*.iml
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary or backup files
+*.bak
+*.tmp
+*.swp
+
+# Archive files
+*.jar
+*.war
